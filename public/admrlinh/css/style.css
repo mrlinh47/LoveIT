@@ -1,0 +1,31 @@
+.form-login {
+  margin-top: 50px;
+  padding: 20px;
+  border:1px solid #ccc;
+  border-radius: 5px;
+}
+.list-user i.icon-active{
+  color: #28a745;
+}
+.list-user i.icon-inactive{
+  color: #dc3545;
+}
+.list-user .icon-add{
+  float: right;
+}
+.list-user .icon-add a{
+  font-size: 20px;
+  padding-right: 20px;
+  color: #000;
+}
+.list-user .icon-add a:hover{
+  color: #000;
+  text-decoration: none;
+}
+.list-user .icon-add i{
+  color: #28a745;
+  font-size: 26px;
+}
+.add-user .error{
+  color: #ff2000;
+}
